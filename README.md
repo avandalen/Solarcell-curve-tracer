@@ -1,2 +1,2 @@
 In 2013, I started with my Maxun One solar bike project. For the development of very lightweight solar cell encapsulation materials, I needed to measure the wear due to atmospheric influence. This requires a measurement system with high long-term reproducibility. By using error corrections, the long-term reproducibility of the solar cell curve tracer is 0.2%. 
-See the aricle https://www.avdweb.nl/arduino/measurement/solar-cell-curvetracer
+See my article here: https://www.avdweb.nl/arduino/measurement/solar-cell-curvetracer
